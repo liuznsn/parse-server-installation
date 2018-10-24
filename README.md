@@ -25,7 +25,7 @@ docker build https://github.com/parse-community/parse-server.git -t parse-server
 
 Build parse dashboard docker image:
 ```
-docker build https://github.com/liuznsn/parse-dashboard.git -t parse-dashboard
+docker build https://github.com/parse-community/parse-dashboard.git -t parse-dashboard
 ```
 
 You could try to use docker command `docker images` to check builds of those images have be successed.
